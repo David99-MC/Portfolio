@@ -1,11 +1,13 @@
 function Button({ children, to }: { children: React.ReactNode; to?: string }) {
-  const className = "rounded-md bg-black font-medium text-white px-5 py-3";
+  const shadow = "hover:shadow-pastel-yellow hover:shadow-solid";
+  const className =
+    "rounded-md bg-black font-medium text-white px-5 py-3" + shadow;
   if (to) {
     return (
-      <div>
+      <div className="">
         <a
           href={to}
-          className={className}
+          className="rounded-md bg-black font-medium text-white px-5 py-3 hover:shadow-pastel-yellow hover:shadow-solid transition-all duration-100"
           {...(!to.startsWith("#") ? { target: "_blank" } : {})}
         >
           {children}
