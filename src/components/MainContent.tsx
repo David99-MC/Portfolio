@@ -35,7 +35,7 @@ function MainContent() {
               What I do
             </div>
             <div className="flex flex-col space-y-10">
-              <div className="ms-0 xl:ms-7">
+              <div className="ms-0 xl:ms-7 2xl:ms-32 3xl:ms-60 4xl:ms-96 5xl:ms-128 6xl:ms-144">
                 <h3 className="mt-5 text-2xl text-wrap font-bold mb-3">
                   Design
                 </h3>
@@ -46,7 +46,7 @@ function MainContent() {
                   sure your website is up to that standard.
                 </p>
               </div>
-              <div className="ms-0 xl:ms-7">
+              <div className="ms-0 xl:ms-7 2xl:ms-32 3xl:ms-60 4xl:ms-96 5xl:ms-128 6xl:ms-144">
                 <h3 className="text-2xl text-wrap font-bold mb-3">
                   Development
                 </h3>

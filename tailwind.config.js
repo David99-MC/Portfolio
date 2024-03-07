@@ -15,6 +15,16 @@ export default {
       boxShadow: {
         solid: "10px 10px",
       },
+      screens: {
+        "3xl": "1800px",
+        "4xl": "2000px",
+        "5xl": "2200px",
+        "6xl": "2400px",
+      },
+      spacing: {
+        128: "32rem",
+        144: "40rem",
+      },
     },
   },
   plugins: [],
