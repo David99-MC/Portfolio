@@ -8,7 +8,7 @@ function MainContent() {
     <div className="relative">
       <Header />
       <div className="border-solid grid grid-cols-2 border-black border-b-2 border-l-2 ">
-        <div className="bg-pastel-blue col-span-2 lg:col-span-1 border-solid border-black border-b-2 border-r-2 w-dvw md:w-full">
+        <div className="bg-pastel-blue col-span-2 lg:col-span-1 border-solid border-black border-b-2 border-r-2 w-full">
           <div className="px-10 py-24 lg:px-20 lg:py-48 space-y-10">
             <h1 className="lg:text-5xl font-extrabold font-display w-full text-4xl tracking-tight">
               Hi, I'm Buu, Web designer and Web developer

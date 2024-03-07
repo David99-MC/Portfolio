@@ -7,7 +7,7 @@ function Footer() {
       <p className="text-center font-paragraph text-wrap">
         If you need a modern and powerful website for your business, startup or
         yourself, I am available for work. You can email me directly at{" "}
-        <b>buuquoclam@email.com</b>
+        <b>buuquoclam@gmail.com</b>
       </p>
     </footer>
   );
