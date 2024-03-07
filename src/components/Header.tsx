@@ -13,7 +13,7 @@ function Header() {
         </a>
         <a
           href="mailto:buuquoclam@gmail.com"
-          className="border-solid border-black bg-black text-base md:text-lg text-white hover:bg-pastel-blue p-2 px-4 md:py-6 md:px-9 font-medium"
+          className="border-solid border-black border-2 bg-black text-base md:text-lg text-white hover:bg-pastel-blue p-2 px-4 md:py-6 md:px-9 font-medium"
         >
           Get in touch
         </a>
