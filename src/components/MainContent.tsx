@@ -101,7 +101,7 @@ function MainContent() {
             <h1 className="lg:text-5xl font-extrabold font-display w-full text-5xl tracking-tight">
               The Lam's Bakery
             </h1>
-            <div className="flex gap-3">
+            <div className="flex flex-wrap gap-3">
               <Tag>Web Design</Tag>
               <Tag>Fullstack MERN development</Tag>
             </div>
