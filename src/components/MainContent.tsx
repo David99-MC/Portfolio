@@ -11,7 +11,7 @@ function MainContent() {
         <div className="bg-pastel-blue col-span-2 lg:col-span-1 border-solid border-black border-b-2 border-r-2 w-full">
           <div className="px-10 py-24 lg:px-20 lg:py-48 space-y-10">
             <h1 className="lg:text-5xl font-extrabold font-display w-full text-4xl tracking-tight">
-              Hi, I'm Buu, Fullstack Web developer
+              Hi, I'm Buu, Fullstack Web Developer
             </h1>
             <p className="w-5/6 sm:w-9/12 pb-5 text-base lg:text-lg font-paragraph tracking-wide leading-relaxed">
               I turn any designs into beautiful websites for businesses around
