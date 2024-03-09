@@ -95,7 +95,7 @@ function MainContent() {
           />
         </div>
 
-        <div className="col-span-2 lg:col-span-1 border-solid border-black border-r-2 border-b-2">
+        <div className="col-span-2 lg:col-span-1 border-b-2 lg:border-b-0 border-solid border-black border-r-2 ">
           <div className="px-10 py-24 lg:px-20 lg:py-48 space-y-7">
             <WorkRelevant>latest work</WorkRelevant>
             <h1 className="lg:text-5xl font-extrabold font-display w-full text-5xl tracking-tight">
@@ -115,7 +115,7 @@ function MainContent() {
             </Button>
           </div>
         </div>
-        <div className="bg-pastel-pink col-span-2 lg:col-span-1 border-solid border-black border-r-2 py-20 lg:py-0">
+        <div className="bg-pastel-pink col-span-2 lg:col-span-1 border-solid border-black border-r-2  py-20 lg:py-0">
           <img
             src="/images/TheLamsBakeryDemo.jpg"
             alt="profile picture"
