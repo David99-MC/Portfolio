@@ -11,13 +11,13 @@ function MainContent() {
         <div className="bg-pastel-blue col-span-2 lg:col-span-1 border-solid border-black border-b-2 border-r-2 w-full">
           <div className="px-10 py-24 lg:px-20 lg:py-48 space-y-10">
             <h1 className="lg:text-5xl font-extrabold font-display w-full text-4xl tracking-tight">
-              Hi, I'm Buu, Web designer and Web developer
+              Hi, I'm Buu, Fullstack Web developer
             </h1>
             <p className="w-5/6 sm:w-9/12 pb-5 text-base lg:text-lg font-paragraph tracking-wide leading-relaxed">
-              I design and build beautiful websites for businesses around the
-              globe. If you need a modern and powerful website, send me an
-              email. If we are a good fit, I will give you a time and cost
-              estimate.
+              I turn any designs into beautiful websites for businesses around
+              the globe. If you are ready to take your website to a new level,
+              shoot me a message. If we are a good fit, I will give you a time
+              and cost estimate.
             </p>
             <Button to="#myWork">See my work</Button>
           </div>
@@ -70,9 +70,11 @@ function MainContent() {
               Employee management website
             </h1>
             <div className="flex flex-wrap gap-3">
-              <Tag>Web Design</Tag>
-              <Tag>Web Development</Tag>
-              <Tag>Concept</Tag>
+              <Tag>MongoDB</Tag>
+              <Tag>Express</Tag>
+              <Tag>Node</Tag>
+              <Tag>Javascript</Tag>
+              <Tag>Bootstrap</Tag>
             </div>
             <p className="w-full sm:w-9/12 text-base font-paragraph lg:text-lg tracking-wide leading-relaxed">
               Full website design and build for a restaurant. This website
@@ -102,8 +104,12 @@ function MainContent() {
               The Lam's Bakery
             </h1>
             <div className="flex flex-wrap gap-3">
-              <Tag>Web Design</Tag>
-              <Tag>Fullstack MERN development</Tag>
+              <Tag>MongoDB</Tag>
+              <Tag>Express</Tag>
+              <Tag>React</Tag>
+              <Tag>Node</Tag>
+              <Tag>Typescript</Tag>
+              <Tag>TailwindCSS</Tag>
             </div>
             <p className="w-full sm:w-9/12 text-base font-paragraph pb-5 lg:text-lg tracking-wide leading-relaxed">
               A highly responsive e-commerce platform, focusing on mobile-first
